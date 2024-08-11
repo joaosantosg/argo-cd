@@ -10,4 +10,4 @@ configmap:
 image:
   name: devopsjourney1/mywebapp
   tag: latest
-  arm: true
+  platform: linux/arm64
