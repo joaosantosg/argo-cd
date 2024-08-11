@@ -9,4 +9,5 @@ configmap:
 
 image:
   name: devopsjourney1/mywebapp
-  tag: multi-arch
+  tag: latest
+  arm: true
